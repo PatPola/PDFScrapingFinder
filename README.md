@@ -17,6 +17,7 @@ Esta herramienta se ha desarrollado debido a la falta de un buscador específico
 - **jsoup 1.15.3**
 
 ## Ejemplo de uso
+```
 Al ejectutar el programa
 Introduce la url para buscar en sus PDF:
 https://www.castillalamancha.es/gobierno/desarrollosostenible/estructura/dgtranene/actuaciones/resoluciones-de-concesi%C3%B3n-y-desestimaci%C3%B3n-ayudas-autoconsumo
@@ -28,3 +29,4 @@ Ingrese el texto para buscar en los PDF:
 Se encontró "María la que no quiere ir buscando por pdf individual" en los siguientes documentos:
 - https://www.castillalamancha.es/gobierno/desarrollosostenible/estructura/dgtranene/actuaciones/PDFEJEMPLO.pdf
 - https://www.castillalamancha.es/gobierno/desarrollosostenible/estructura/dgtranene/actuaciones/PDFEJEMPLO.pdf
+```
